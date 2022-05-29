@@ -2,3 +2,5 @@
 
 ![](images/contentpage.png)
 ![](images/first_law.png)
+![](images/second_law.png)
+![](images/third_law.png)
